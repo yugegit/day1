@@ -1,0 +1,37 @@
+Q1: Difference between HTTP 1.1 vs HTTP 2
+
+ans:
+
+HTTP : Hyper Text Transport Protocol.It is language or rule and its more than 15 year extension.
+
+HTTP 1.1 :
+         ~ Is developed by Berners lee in 1989,it is communication for world wide web.
+         
+         ~ http 1.1 is a initial version pf http.
+    
+         ~ it is slow in process campare to the http 2.
+
+         ~ http 1.1 is Binary Framing Layer.
+
+         ~ The specification defines protocol reffered as http 1.1 The protocols includes more stringent  requirements.
+
+HTTP 2 : 
+         ~ It is the major revision of http protocol network used by the worldwideweb.
+
+         ~ http 2 is fast less amount of duration process.
+
+         ~ it is usedto reduce latency by enabelling Request and Response.
+
+         ~ http 2 is the new version of http 1.1 .
+
+         ~ it is not rewrite the protocol,http method amd status code. one of the major protocol is allow to use the single connection from the browser.
+
+
+Q2 : Object and its internal representation in javascript
+
+ans :
+
+    An object is a reference datatype. Object in javascript is defined as unordered collection of related data in the form of key,value pairs.
+    Its stores value.For example E mail ID is key and Password is Value.Obects are more complex and each object may contains primitive and reference datatype.
+    variables that are assigned as reference vaLue from given pointer. Pointers point memory to location in memory objects is stored.
+    variables don`t stores the value.
